@@ -1,4 +1,4 @@
-/* 从标准输入到标准输出，并对输出行标号 number.c*/
+/* 从标准输入到标准输出，并对输出行标号 number.c */
 #include <stdio.h>
 #include <stdlib.h>
 int main()
