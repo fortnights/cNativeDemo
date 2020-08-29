@@ -3,7 +3,7 @@
  * @Version: 1.0
  * @Autor: fortnights
  * @Date: 2020-08-30 01:12:33
- * @LastEditTime: 2020-08-30 02:04:05
+ * @LastEditTime: 2020-08-30 03:17:52
  * @LastEditTime: 2020-08-30 01:52:57
  */
 #include <stdio.h>
@@ -36,6 +36,8 @@ int main()
     {
         printf("右括号匹配失败！");
     }
+
+    system("pause");
 
     return EXIT_SUCCESS;
 }
