@@ -3,7 +3,7 @@
  * @Version: 1.0
  * @Autor: fortnights
  * @Date: 2020-08-30 01:12:33
- * @LastEditTime: 2020-08-30 01:29:37
+ * @LastEditTime: 2020-08-30 01:55:39
  */
 #include <stdio.h>
 #include <stdlib.h>
@@ -33,7 +33,7 @@ int main()
 
     if (brace > 0)
     {
-        printf("右括号匹配失败");
+        printf("右括号匹配失败！");
     }
 
     system("pause");
